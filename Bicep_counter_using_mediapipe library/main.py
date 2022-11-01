@@ -1,9 +1,8 @@
-import imp
+
 import cv2
 from matplotlib.pyplot import draw
 import mediapipe as mp
 import numpy as np
-from zmq import PROTOCOL_ERROR_ZMTP_MALFORMED_COMMAND_INITIATE
 
 
 def calculate_distance(fingur, thumb):
