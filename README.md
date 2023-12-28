@@ -10,7 +10,7 @@
 
 
 
-# Projects
+# Project
 - [Image Bluring Using Hand Gesture](Image_Bluring_Using_Hand_Gesture)
 In the 'Image Blurring Using Hand Gesture' project, I employed the MediaPipe library to detect hand gestures. The project involves calculating the distance between the thumb and index finger, utilizing this information to dynamically adjust the blurriness of the camera feed. By leveraging the capabilities of the MediaPipe library, this initiative explores an interactive and hands-on approach to controlling image blurring through intuitive hand gestures.
 
