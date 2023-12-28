@@ -7,7 +7,7 @@
 - [Media Pipe](https://pypi.org/project/mediapipe/)
 - [Open Cv](https://pypi.org/project/opencv-python/)
 - [Matplotlib](https://pypi.org/project/matplotlib/)
-
+- [Easyocr](https://pypi.org/project/easyocr/)
 
 
 # Projects
